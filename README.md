@@ -40,4 +40,4 @@ Calculate for each depth:
     
     i. Prepare plots of GR curve vs. depth and the items you have calculated in questions 2 (Vshale), 4 (effective porosity), 10 (water saturation).
 
-![Table](/iamge.png)
+![Table](https://github.com/alialhousseini/CCE-AUB-Extract-from-paper-python/blob/main/iamge.PNG)
